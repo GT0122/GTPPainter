@@ -1,0 +1,2 @@
+# GTPPainter
+MFC_MDI
